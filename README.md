@@ -1,5 +1,7 @@
 # Note Taker ![MIT](https://img.shields.io/badge/license-MIT-green)
 
+![example app image](https://github.com/mhowe21/Note-Taker/blob/master/public/NoteTaker.png]
+
 ## Description
 
 This app takes and saves simple notes. It is based on node.js and express.js
